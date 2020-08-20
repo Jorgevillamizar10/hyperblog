@@ -1,5 +1,9 @@
-hola soy jorge villamizar tengo 21 años y quiero ser feliz.
+hola soy jorge villamizar tengo 22 años y quiero tener un trabajo.
 
-su sueño era ser futbolista profesional.
+su sueño era ser futbolista profesional del deportivo tachira.
 
-hoy es frontend developer.
+hoy es frontend developer con react.
+
+sueña con ser un programador full stack.
+
+tambien con tener negocios.
